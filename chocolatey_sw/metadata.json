@@ -1,0 +1,33 @@
+{
+  "name": "ceritsc-chocolatey_sw",
+  "version": "0.9.3",
+  "author": "ceritsc",
+  "summary": "Install Chocolatey",
+  "license": "MIT",
+  "source": "https://github.com/CERIT-SC/puppet-chocolatey_sw.git",
+  "project_page": "https://github.com/CERIT-SC/puppet-chocolatey_sw",
+  "issues_url": "https://github.com/CERIT-SC/puppet-chocolatey_sw/issues",
+  "tags": [
+    "chocolatey",
+    "windows"
+  ],
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "Windows"
+    }
+  ],
+  "requirements": [
+    {
+      "name": "pe",
+      "version_requirement": ">= 3.3.0 < 4.0.0"
+    },
+    {
+      "name": "puppet",
+      "version_requirement": ">= 3.0.0 < 4.0.0"
+    }
+  ],
+  "dependencies": [
+    {"name":"puppetlabs/stdlib","version_requirement":">= 4.0.0"},
+    {"name":"puppetlabs/powershell","version_requirement":">= 1.0.3"}
+  ]
+}
