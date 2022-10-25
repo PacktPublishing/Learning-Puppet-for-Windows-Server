@@ -451,3 +451,7 @@ We want to keep it as easy as possible to contribute changes so that our modules
 You can read the complete module contribution guide [on the Puppet Labs wiki.](http://projects.puppetlabs.com/projects/module-site/wiki/Module_contributing)
 
 Licensed under [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781785281877">https://packt.link/free-ebook/9781785281877 </a> </p>
